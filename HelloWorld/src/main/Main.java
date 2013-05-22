@@ -2,8 +2,6 @@ package main;
 
 public class Main {
 	public static void main(String[] args){
-		System.out.println("Ciao!");
-		System.out.println("Aiò!");
+		System.out.println("1 2 !");		
 	}
-
 }
