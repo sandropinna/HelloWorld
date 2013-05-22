@@ -7,9 +7,3 @@ public class Main {
 	}
 
 }
-		}
-}m.out.println("Aiò!");
-	}
-	
-
-}
